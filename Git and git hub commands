@@ -12,7 +12,7 @@ cd mouni
 git init (initializing the git in the directory to track chnages)
 touch file.txt (create the file)
 git add file.txt (git add to the staging area)
-git commit -m "file added" ( finally the file inti the git repository)
+git commit -m "file added" ( finally the file into the git repository)
 
 
 
