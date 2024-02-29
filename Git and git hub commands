@@ -1,0 +1,21 @@
+Version Control System : Version control is the system that records or manages the changes that are made to codes, documents programs.
+It helps to track changes when multiple people work on the same project.
+And Git is the version control system.
+
+How to initialize the git ????
+
+git init, git add, git commit -m "message"
+
+for example,
+ mkdir mouni( create a directory)
+cd mouni
+git init (initializing the git in the directory to track chnages)
+touch file.txt (create the file)
+git add file.txt (git add to the staging area)
+git commit -m "file added" ( finally the file inti the git repository)
+
+
+
+
+ 
+   
